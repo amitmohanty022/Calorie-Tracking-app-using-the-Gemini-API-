@@ -1,4 +1,4 @@
-# Calorie-Tracking-app-using-the-Gemini-API-
+# Calorie-Tracking-app-using-the-Gemini-API-and-Gemini-Vision
 
 1. User Interface Setup:
 The app is built using Streamlit and provides a simple, user-friendly interface. The homepage displays an input prompt field where users can type the name of the food or upload an image of their meal.
