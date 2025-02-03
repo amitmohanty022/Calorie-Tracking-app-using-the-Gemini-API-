@@ -7,7 +7,7 @@ The app is built using Streamlit and provides a simple, user-friendly interface.
 Users can upload an image of their food by either dragging and dropping it into the designated area or browsing files from their device. The uploaded image is displayed on the screen for confirmation.
 
 3. Input Prompt Option:
-Alternatively, users can type a description of the food item in the "Input Prompt" field. This is useful if the user prefers text input over image uploads.
+Alternatively, users can type a description of the food item in the "Input Prompt" field.  This is useful if the user prefers text input over image uploads.
 Image Analysis using Gemini API:
 
 4. When an image is uploaded, the app processes it using the Gemini API. The API analyzes the image to identify the food items present in the image. If text input is used, the API directly processes the text.
